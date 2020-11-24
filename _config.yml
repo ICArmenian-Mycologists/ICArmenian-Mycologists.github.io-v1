@@ -2,12 +2,12 @@
 
 # site-wide variables
 title: Stajich Lab # title of site, used in tab name and elsewhere
-email: jane.smith@gmail.com # default email
-google: Jason Stajich # default name to search on Google Scholar
-github: stajichlab # default GitHub user/org, without the @
-twitter: stajichlab # default Twitter handle, without the @
-instagram: stajichlab # default Instagram handle, without the @
-youtube: fakeyoutubechannel # default YouTube channel handle
+email: tkurb001@ucr.edu # default email
+google: Tania Kurbessoian # default name to search on Google Scholar
+github: ICArmenian-Mycologists # default GitHub user/org, without the @
+twitter: ICArmenian-Mycologists # default Twitter handle, without the @
+instagram: ICArmenian-Mycologists # default Instagram handle, without the @
+youtube: ICArmenian-Mycologists # default YouTube channel handle
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: Dr. Jason E. Stajich Laboratory at the Department of Microbiology and Plant Pathology, University of California Riverside # description that will show under search engine results
+      description: International Congress for Armenian Mycologists are American Armenian mycologists who are interested in collaborating with the international scientific community. # description that will show under search engine results
       background: images/test-tube.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
