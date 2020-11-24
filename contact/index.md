@@ -9,7 +9,7 @@ title: Contact
 
 ## Email
 
-[tkurb001@ucr.ed](mailto:tkurb001@ucr.edu)
+[tkurb001@ucr.edu](mailto:tkurb001@ucr.edu)
 {:.center}
 
 ## Address
