@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: Stajich Lab # title of site, used in tab name and elsewhere
+title: International Congress of Armenian Mycologsits # title of site, used in tab name and elsewhere
 email: tkurb001@ucr.edu # default email
 google: Tania Kurbessoian # default name to search on Google Scholar
 github: ICArmenian-Mycologists # default GitHub user/org, without the @
