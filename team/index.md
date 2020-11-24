@@ -4,7 +4,7 @@ title: Team
 
 # <i class="fas fa-users"></i>Team
 
-## Stajich Lab Members
+## International Congress of Armenian Mycologists Team Members
 
 {% capture html %}
 {% include team-list.html role="pi" %}
