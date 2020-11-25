@@ -5,7 +5,7 @@ search:
   - C Victoroff
 role: phd
 group: current
-image: images/members/Claudia_Victoroff.JPG
+image: images/members/Claudia_Victoroff.png
 website: 
 email: cnv5@case.edu
 google: 
