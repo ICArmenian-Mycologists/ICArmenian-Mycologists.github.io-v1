@@ -10,7 +10,7 @@ website:
 email: cnv5@case.edu
 google: 
 github: 
-twitter: 
+twitter: https://twitter.com/Mycolojan
 ---
 
 Claudia Bashian-Victoroff is currently located in Cleveland, Ohio while pursuing a dual-funded PhD in Biology from Case Western Reserve University and Holden Forest and Gardens. She is advised by David Burke. Her dissertation work is on ectomycorrhizal fungi in forest ecosystems with a focus on the diverse life strategies of different fungal taxa. Claudia’s research pairs field collections with molecular species identification to peak into the ‘black-box’ of mycorrhizal functions (Horton 2002). 
