@@ -9,26 +9,19 @@ title: Contact
 
 ## Email
 
-[tkurb001@ucr.edu](mailto:tkurb001@ucr.edu)
+[icarmenian.mycologists@gmail.com](mailto:icarmenian.mycologists@gmail.com)
 {:.center}
 
-## Address
+## Our Mission
 
-{% comment %}
-Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly address so people can find their way to you easily.
-{% endcomment %}
+International Congress of Armenian Mycologists Mission Statement
 
-Jason Stajich Laboratory <br>
-900 University Ave <br>
-1219 Genomics <br>
-Dept of Microbiology and Plant Pathology <br>
-University of California-Riverside <br>
-Riverside, CA 92521 <br>
-USA
-{:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://goo.gl/maps/NuqUSJTfcby2Xrsj8)
-{:.center}
+The International Congress of Armenian Mycologists (ICAM) is a network of research scientists of Armenian ethnicity. Our diverse research backgrounds on various aspects of fungal biology are allied in the mission of biological, ecological, and social welfare of all Armenian life forms. As an organization we strive to conduct critical scientific research on the understudied fungal kingdom in the both ancient yet contemporary civilization of Armenia.   
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.81721173418!2d-117.32831588478702!3d33.971537380627936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDU4JzE3LjUiTiAxMTfCsDE5JzM0LjEiVw!5e0!3m2!1sen!2sus!4v1598197802083!5m2!1sen!2sus" height="500" width="100%" frameborder="2" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-{:.center}
+Armenia is a predominantly indigenous nation in West Asia whose vibrancy and beauty has withstood the terrors of colonization and genocide for hundreds of years. As Armenians are locked in a struggle of liberation and self-determination against such forces, we believe that human liberation is intimately linked to the liberation of all life, not least of which is fungal.  Drawing from Armenia’s strong tradition of land stewardship and intimacy with nonhuman life forms, the goal of ICAM is to leverage our passions and training as scientists to simultaneously advance mycological science and Armenian sovereignty. 
+
+We seek to build science capacity in Armenia by: collaborating with the nation’s already successful scientists through shared grants, co-authorship, and resource allocation; by providing financed scientific mentorship to Armenian youth; and by gathering biological data that can be used in the protection of land and life. Because fungi are understudied worldwide, and Armenia has been home to a low proportion of that research, we aim to describe new species and accrue data for answering critical ecological and evolutionary questions. Seating such research in Armenia will serve to bolster Armenia’s overall impact and contribution to science. 
+
+Despite the common assertion to the contrary, science is informed by sociopolitical forces. ICAM recognizes and affirms the positive relationship between indigenous sovereignty and biological diversity in Armenia and beyond, and stands in solidarity with all indigenous liberation efforts around the world.
+
