@@ -4,7 +4,6 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-{% include figure.html image="images/Genomics.jpg" width="100%" %}
 [**International Congress of Armenian Mycologists**](https://stajichlab.github.io/lab-website-template/) are a group of mycologists located in the United States. Please contact us if you would like to collaborate!
 
 ## Email
