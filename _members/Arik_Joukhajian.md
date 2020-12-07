@@ -5,7 +5,7 @@ search:
   - A Joukhajian
 role: phd
 group: current
-image: images/members/Arik_Joukhajian.png
+image: images/members/Arik_Joukhajian.jpeg
 website: 
 email: ajouk001@ucr.edu
 google: 
