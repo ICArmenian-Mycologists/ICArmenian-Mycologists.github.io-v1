@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       description: International Congress for Armenian Mycologists are American Armenian mycologists who are interested in collaborating with the international scientific community. # description that will show under search engine results
-      background: images/test-tube.jpg # background image in header and footer
+      background: icons/ICAM-icon.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:
