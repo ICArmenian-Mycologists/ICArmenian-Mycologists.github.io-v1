@@ -6,7 +6,7 @@ title: International Congress of Armenian Mycologists
 
 {%
   include figure.html
-  image="images/.jpg"
+  image="icons/ICAM-icon.jpg"
   caption="Welcome to our Organization!"
   width="100%"
   link="team"
@@ -25,7 +25,7 @@ title: International Congress of Armenian Mycologists
   include feature.html
   image="images/.webp"
   link="research"
-  heading="Connection all Armenian Mycologists!"
+  heading="Connecting all Armenian Mycologists!"
   text=text
 %}
 
@@ -51,7 +51,7 @@ The International Congress of Armenian Mycologists welcomes people from diverse 
 {% endcapture %}
 {%
   include feature.html
-  image="images/.jpg"
+  image="icon/ICAM-icon.jpg"
   link="team"
   heading="Our team members"
   text=text
