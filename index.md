@@ -39,7 +39,7 @@ We are also interested in teaching bioinformatics tools and pipelines to assembl
   include feature.html
   image="images/resource.jpg"
   link="resources"
-  heading="IMAC resources"
+  heading="ICAM resources"
   text=text
 %}
 
