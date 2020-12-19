@@ -37,7 +37,7 @@ We are also interested in teaching bioinformatics tools and pipelines to assembl
 {% endcapture %}
 {%
   include feature.html
-  image="images/resource.jpg"
+  image="images/Mycology.JPG"
   link="resources"
   heading="ICAM resources"
   text=text
