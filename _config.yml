@@ -1,11 +1,11 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: International Congress of Armenian Mycologsits # title of site, used in tab name and elsewhere
+title: International Congress of Armenian Mycologists # title of site, used in tab name and elsewhere
 email: tkurb001@ucr.edu # default email
 google: Tania Kurbessoian # default name to search on Google Scholar
 github: ICArmenian-Mycologists # default GitHub user/org, without the @
-twitter: ICArmenian-Mycologists # default Twitter handle, without the @
+twitter: IC_ArmenianMyco # default Twitter handle, without the @
 instagram: ICArmenian-Mycologists # default Instagram handle, without the @
 youtube: ICArmenian-Mycologists # default YouTube channel handle
 
