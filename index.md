@@ -18,7 +18,7 @@ title: International Congress of Armenian Mycologists
 ## International Armenian Connections
 
 {% capture text %}
-[Research](research) Our focuses range from saprotrophic fungal diversity, Arbuscular Mycorrhizae Fungal remediation projects, and Khachkar lichen diversity intterests. Please reach out to us if you are interested in collaborating. <br>
+[Research](research) Our focuses range from saprotrophic fungal diversity, Arbuscular Mycorrhizae Fungal remediation projects, and Khachkar lichen diversity interests. Please reach out to us if you are interested in collaborating. <br>
 {% endcapture %}
 
 {%
