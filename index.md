@@ -13,7 +13,7 @@ title: International Congress of Armenian Mycologists
 %}
 
 
-[**International Congress of Armenian Mycologists**](https://ICArmenian-Mycologists.github.io/) is a collaborative effort between Armenian mycologists: Tania Kurbessoian M.S., Claudia Bashian-Victoroff, Patty Kaishian Ph.D., and Arik Joukhajian. 
+[**International Congress of Armenian Mycologists**](https://ICArmenian-Mycologists.github.io/) is a collaborative effort between Armenian mycologists: Tania Kurbessoian M.S., Claudia Bashian-Victoroff M.S., Patty Kaishian Ph.D., and Arik Joukhajian. 
 
 ## International Armenian Connections
 
