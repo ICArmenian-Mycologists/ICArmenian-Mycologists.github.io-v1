@@ -8,7 +8,7 @@ title: International Congress of Armenian Mycologists
   include figure.html
   image="icons/ICAM-icon.jpg"
   caption="Welcome to our Organization!"
-  width="50%"
+  width="100%"
   link="team"
 %}
 
