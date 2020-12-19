@@ -47,7 +47,7 @@ We are also interested in teaching bioinformatics tools and pipelines to assembl
 The International Congress of Armenian Mycologists welcomes people from diverse backgrounds regardless of race, ethinicity, color, religion, gender, gender identity, gender expression, sexual orientation, political affiliation, family commitments, national origin, genetics, disability or eligible age  <br>
 
 
-<center><a href=("https://ICArmenian-Mycologists.github.io/team/">See our members &nbsp;→</a></center>
+<center><a href="(https://ICArmenian-Mycologists.github.io/team/">See our resources &nbsp;→</a></center>
 {% endcapture %}
 {%
   include feature.html
