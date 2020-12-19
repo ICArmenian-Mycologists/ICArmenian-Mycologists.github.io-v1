@@ -23,7 +23,7 @@ title: International Congress of Armenian Mycologists
 
 {%
   include feature.html
-  image="images/.webp"
+  image="images/laboratory.jpg"
   link="research"
   heading="Connecting all Armenian Mycologists!"
   text=text
