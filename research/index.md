@@ -6,7 +6,7 @@ title: Research
 
 ## Research with the International Congress of Armenian Mycologists
 
-[Research](/research) with our group can range from diversity quetions, to bioremediation efforts of clearing white phosphorus contaminated forest soils to khachkar lichen diversity.
+[Research](/research) focuses within our group can range from diversity quetions, bioremediation efforts of clearing white phosphorus contaminated forest soils, khachkar lichen diversity and macro and micro fungal diversity.
 
 {% include card-search.html subject="papers" %}
 
