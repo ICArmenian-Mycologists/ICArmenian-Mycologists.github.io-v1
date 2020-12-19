@@ -6,7 +6,7 @@ title: Blog
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/IC_ArmenianMyco?lang=en">Tweets by StajichLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/IC_ArmenianMyco?lang=en">Tweets by ICArmenian-Mycologists</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 <a href="https://twitter.com/IC_ArmenianMyco?lang=en" class="twitter-follow-button" data-show-count="false">Follow @IC_ArmenianMyco</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
