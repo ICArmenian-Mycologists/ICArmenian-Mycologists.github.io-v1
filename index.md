@@ -6,7 +6,7 @@ title: International Congress of Armenian Mycologists
 
 {%
   include figure.html
-  image="icons/ICAM-icon.jpg"
+  image="icons/ICAM-icon.png"
   caption="Welcome to our Organization!"
   width="100%"
   link="team"
