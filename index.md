@@ -69,5 +69,3 @@ Armenia is a predominantly indigenous nation in West Asia whose vibrancy and bea
 We seek to build science capacity in Armenia by: collaborating with the nation’s already successful scientists through shared grants, co-authorship, and resource allocation; by providing financed scientific mentorship to Armenian youth; and by gathering biological data that can be used in the protection of land and life. Because fungi are understudied worldwide, and Armenia has been home to a low proportion of that research, we aim to describe new species and accrue data for answering critical ecological and evolutionary questions. Seating such research in Armenia will serve to bolster Armenia’s overall impact and contribution to science. 
 
 Despite the common assertion to the contrary, science is informed by sociopolitical forces. ICAM recognizes and affirms the positive relationship between indigenous sovereignty and biological diversity in Armenia and beyond, and stands in solidarity with all indigenous social justice  efforts around the world. 
-
-
