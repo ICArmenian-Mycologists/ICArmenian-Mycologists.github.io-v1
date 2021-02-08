@@ -51,7 +51,7 @@ The International Congress of Armenian Mycologists welcomes people from diverse 
 {% endcapture %}
 {%
   include feature.html
-  image="images/ICAM.png"
+  image="images/ICAM_group_photo.png"
   link="team"
   heading="Our team members"
   text=text
