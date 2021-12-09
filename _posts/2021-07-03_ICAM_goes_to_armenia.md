@@ -19,10 +19,9 @@ We consist of ethnically Armenian scientists on different breaths of the scienti
 {%
   include figure.html
   image="images/001.png"
+  caption="The founders of the International Congress of Armenian Mycologists in Artavan. From the left, Arik Joukhajian, Claudia Victoroff-Bashian, Dr Patricia Kaishian, and Tania Kurbessoian"
   height="100%"
 %}
- The founders of the International Congress of Armenian Mycologists in Artavan. From the left, Arik Joukhajian, Claudia Victoroff-Bashian, Dr Patricia Kaishian, and Tania Kurbessoian
-
 
 Dr. Patricia Kashian now faculty at Bard College in New York, Tania Kurbessoian a fifth year Microbiology PhD candidate at UC Riverside, 
 Claudia Victoroff-Bashian a second year Biology PhD student at Case Holden University and Arik Joukhadjian a second year Microbiology PhD Student at UC Riverside.  
@@ -47,16 +46,17 @@ Not only did we scour the ground and trees for lichens and fungi but we also col
 {%
   include figure.html
   image="images/010.jpg"
+  caption="Razmig Sargsyan and Arik collect soil cores for high-throughput sequencing"
   height="100%"
 %}
-Razmig Sargsyan and Arik collect soil cores for high-throughput sequencing
+
 
 {%
   include figure.html
   image="images/011.jpg"
+  caption="Patty and Claudia pose with the first of many sticks for the herbarium"
   height="100%"
 %}
-Patty and Claudia pose with the first of many sticks for the herbarium
 
 While the dry soil in Hankavan meant that few mushrooms were growing, our group had fun getting to know each other while hiking through the woods. 
 We rested at a natural hot spring and had a lunch of fresh veggies, Armenian flatbread called lavash, and (of course) a variety of kebabs.
@@ -64,9 +64,10 @@ We rested at a natural hot spring and had a lunch of fresh veggies, Armenian fla
 {%
   include figure.html
   image="images/004.jpg"
+  caption="The fog setting in a Dilijan forest"
   height="100%"
 %}
-The fog setting in a Dilijan forest
+
 
 From Hankavan we traveled north to the town of Dilijan and to Dilijan National Park. While the southern half of Armenia is relatively arid, the northern half is found in much higher altitudes and is extremely lush. 
 In Dilijan we hiked the Hidden Waterfall trail (13) and the Drunken Forest Trail (14), both described by the HikeArmenia app. 
@@ -74,9 +75,9 @@ In Dilijan we hiked the Hidden Waterfall trail (13) and the Drunken Forest Trail
 {%
   include figure.html
   image="images/007.jpg"
+  caption="An AR experience through the hiking app AR Trails"
   height="100%"
 %}
-An AR experience through the hiking app AR Trails
 
 The cool and humid forest was exploding with life, and we found a broad diversity of lichens and mushrooms. The forest was mostly composed of mainly oriental beech trees. 
 We were finding some mushrooms, but we all were aching to find more. Turns out the country had been experiencing some dry weeks before we got there.
@@ -84,9 +85,9 @@ We were finding some mushrooms, but we all were aching to find more. Turns out t
 {%
   include figure.html
   image="images/002.jpg"
+  caption="The Haghartsin Monastery, nestled in the mushroom-rich hills of Dilijan"
   height="100%"
 %}
-The Haghartsin Monastery, nestled in the mushroom-rich hills of Dilijan
 
 From Dilijan we traveled south, stopping at some cultural and natural landmarks including the Haghartsin Monastery complex which was built between the 10th and 13th centuries. 
 According to tradition, Armenia was the first nation to adopt Christianity in 301 A.D., so most of the cultural landmarks throughout the country are chapels and monasteries. 
@@ -95,9 +96,9 @@ We also stopped at Lake Sevan, a large and beautiful lake in central Armenia tha
 {%
   include figure.html
   image="images/003.jpg"
+  caption="Patty on a local peak near the small town of Margahovit"
   height="100%"
 %}
-Patty on a local peak near the small town of Margahovit
 
 We traveled south following Vardenyats Mountain Pass, the original silk road that was used from 2nd millennium BC to 16th century A.D., stopping at an ancient structure that once housed traders on their journey. 
 We drove through Vayots Dzor province to Hermon village, a small city found on the foot of the Yeghegis River. This trail was noted by Marco Polo in his journals travelling through this region and meeting Armenian folk. 
@@ -106,9 +107,9 @@ You can read more about the trail and its deep historical roots in the link (15)
 {%
   include figure.html
   image="images/005.jpg"
+  caption="Soviet-era Jeeps essential for travel in Artavan"
   height="100%"
 %}
-Soviet-era Jeeps essential for travel in Artavan
 
 After waking up in our hotel, we attempted to dry the fungi using our dehydrators. It was unfortunate that we didn’t consider the amperage difference, and thus fried one of the dehydrators! 
 We then had our first official ICAM meeting in person, something that felt so surreal and joyous to us especially given the ongoing COVID-19 pandemic.
@@ -122,9 +123,10 @@ After a long day sampling in Artavan, we were ready for a day off. Luckily for u
 {%
   include figure.html
   image="images/008.jpg"
+  caption="Water fights are an all-day affair on Vartavar. From Left, Arik Joukhajian, Dr Arsen Gasparyan, Razmik Papikyan, Hasmik Djoulakian, 
+  Claudia Victoroff-Bashian, Dr Patricia Kaishian, Razmik Sargsyan. Front, Tania Kurbessoian and Sona Galstyan"
   height="100%"
 %}
-Water fights are an all-day affair on Vartavar. From Left, Arik Joukhajian, Dr Arsen Gasparyan, Razmik Papikyan, Hasmik Djoulakian, Claudia Victoroff-Bashian, Dr Patricia Kaishian, Razmik Sargsyan. Front, Tania Kurbessoian and Sona Galstyan
 
 Originally a pre-Christian celebration, Vardavar celebrates the goddess Astghik, goddess of beauty, love, and water. Armenians celebrate by splashing each other mercilessly with water throughout the day. 
 We bought water guns and had a full-fledged water fight! 
@@ -145,23 +147,23 @@ We returned to Yerevan and spent one last day together in Armenia, ending in a l
 {%
   include figure.html
   image="images/006.jpg"
+  caption="The entrance to the new Yerevan Botanical Garden"
   height="100%"
 %}
-The entrance to the new Yerevan Botanical Garden
 
 {%
   include figure.html
   image="images/012.jpg"
+  caption="A greenhouse at the Yerevan Botanical Garden."
   height="100%"
 %}
-A greenhouse at the Yerevan Botanical Garden.
 
 {%
   include figure.html
   image="images/013.jpg"
+  caption="A group photo with our friends and collaborators at Tavern Yerevan."
   height="100%"
 %}
-A group photo with our friends and collaborators at Tavern Yerevan.
 
 We all felt extremely grateful for one another, though the dinner was melancholy knowing we were about to part ways. 
 Armenia is home to a beautiful and unique landscape and inspired Armenian scientists are working to understand and conserve that landscape every day. 
@@ -171,9 +173,9 @@ Now having returned to the U.S. we think we accomplished that and more. We look 
 {%
   include figure.html
   image="images/009.jpg"
+  caption="Karmir Lake in Artavan, appearing to emulate the continents of the world"
   height="100%"
 %}
-Karmir Lake in Artavan, appearing to emulate the continents of the world
 
 You can follow our organization, ICAM, on twitter: @IC_ArmenianMyco
 To see our saved stories in our “highlights” on Instagram visit: @ic_armenian_mycologists
@@ -184,51 +186,52 @@ Here are some fungi that we saw on our visit!
 {%
   include figure.html
   image="images/F001.jpg"
+  caption="A small mushroom growing amongst pines."
   height="100%"
 %}
-A small mushroom growing amongst pines.
 
 {%
   include figure.html
   image="images/F002.jpg"
+  caption="A Tricholomopsis rutlians"
   height="100%"
 %}
-A Tricholomopsis rutlians
 
 {%
   include figure.html
   image="images/F003.jpg"
+  caption="Marasmius lined up in a row."
   height="100%"
 %}
-Marasmius lined up in a row.
 
 {%
   include figure.html
   image="images/F004.jpg"
+  caption="Gymnopus spp."
   height="100%"
 %}
-Gymnopus spp.
 
 {%
   include figure.html
   image="images/F005.jpg"
+  caption="A Lactarius and bolete from the Lori province."
   height="100%"
 %}
-A Lactarius and bolete from the Lori province.
 
 {%
   include figure.html
   image="images/F006.jpg"
+  caption="A fresh stinkhorn, Phallus sp."
   height="100%"
 %}
-A fresh stinkhorn, Phallus sp.
 
 {%
   include figure.html
   image="images/F007.jpg"
+  caption="A bolete bearing our organization’s name!"
   height="100%"
 %}
-A bolete bearing our organization’s name!
+
 
 -T
 
