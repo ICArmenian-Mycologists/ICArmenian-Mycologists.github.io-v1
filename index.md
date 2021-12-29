@@ -79,7 +79,7 @@ Despite the common assertion to the contrary, science is informed by sociopoliti
      <h2 class="title">Join Us</h2>
      <div class="row">
        <div class="col-sm-5 col-sm-offset-1 text-right text-right-sm">
-         <h1 class="join-us-intro">We Need Your Voice.<br> Join Us!</h1>
+         <h1 class="join-us-intro">We Need Your Voice. Join Us!</h1>
        </div>
        <div class="col-sm-5 text-left text-left-sm">
          <p>Sign up to receive updates, progress reports and ways to get involved. We're excited to have you join our amazing community!</p>
