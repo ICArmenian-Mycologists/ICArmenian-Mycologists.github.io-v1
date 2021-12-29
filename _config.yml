@@ -9,8 +9,8 @@ twitter: IC_ArmenianMyco # default Twitter handle, without the @
 instagram: ICArmenian-Mycologists # default Instagram handle, without the @
 youtube: ICArmenian-Mycologists # default YouTube channel handle
 is_501c3: true
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+donorbox_campaign_name: Fundraising for ICAM-Armenia
+#tinyletter_username: interestingnonprofits
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
