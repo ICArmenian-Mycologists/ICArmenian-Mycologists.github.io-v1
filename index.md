@@ -78,25 +78,10 @@ Despite the common assertion to the contrary, science is informed by sociopoliti
      <div class="donate-inner">
        <h2 class="title text-center">Donate</h2>
        <div class="info">
-         <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p>
-         
-           {% if site.is_501c3 == true %}
-             <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p>
-           {% elsif site.fiscal_sponsor_name %}
-             <p>{{ site.org_name }} is fiscally sponsored by {{ site.fiscal_sponsor_name }}, a 501 (c)(3) tax exempt non-profit organization.</p>
-           {% endif %}
-         {% else %}
-       </div><!--//info-->
-       <div class="cta-container">
-         <div class="speech-bubble">
-           <p class="intro">Your support means the world to us :)</p>
-           <div class="icon-holder  text-center"><i class="fa fa-smile-o"></i></div>
-         </div><!--//speech-bubble-->
-         <div class="btn-container  text-center">
+         <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p> <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p> <p>{{ site.org_name }} is fiscally sponsored by {{ site.fiscal_sponsor_name }}, a 501 (c)(3) tax exempt non-profit organization.</p>
            <!--//You need to generate your own PayPal button if you choose to use Paypal - https://www.paypal.com/us/cgi-bin/?cmd=_donate-intro-outside -->
            <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="2R7NG72AEAP6Y" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
