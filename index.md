@@ -78,7 +78,7 @@ Despite the common assertion to the contrary, science is informed by sociopoliti
      <div class="donate-inner">
        <h2 class="title text-center">Donate</h2>
        <div class="info">
-         <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p> <p>Contributions are tax deductible to the extent permitted by law.<br>ICAM is a 501(c)(3) organization.</p>
+         <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p> <p>Contributions are tax deductible to the extent permitted by law. ICAM is a 501(c)(3) organization.</p>
            <!--//You need to generate your own PayPal button if you choose to use Paypal - https://www.paypal.com/us/cgi-bin/?cmd=_donate-intro-outside -->
            <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="2R7NG72AEAP6Y" />
