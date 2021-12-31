@@ -79,22 +79,13 @@ Despite the common assertion to the contrary, science is informed by sociopoliti
        <h2 class="title text-center">Donate</h2>
        <div class="info">
          <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p>
-         {% if site.donorbox_campaign_name %}
-           <div class="donorbox text-center">
-             <iframe src="https://donorbox.org/embed/{{ site.donorbox_campaign_name }}" height="600px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe>
-           </div>
+         
            {% if site.is_501c3 == true %}
              <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p>
            {% elsif site.fiscal_sponsor_name %}
              <p>{{ site.org_name }} is fiscally sponsored by {{ site.fiscal_sponsor_name }}, a 501 (c)(3) tax exempt non-profit organization.</p>
            {% endif %}
          {% else %}
-         <div class="donorbox text-center">
-         </div>
-         <hr>
-         <p class="text-warning">Sorry, online donations are not available at this time <i class="fa fa-frown-o"></i></p>
-         <hr>
-         {% endif %}
        </div><!--//info-->
        <div class="cta-container">
          <div class="speech-bubble">
