@@ -1,5 +1,5 @@
 ---
-title: ICAM Goes to Armenia!
+title: Claudia Gets a Grant!
 tags: ICAM Armenia Mycology
 author: Tania Kurbessoian
 member-page: tania-kurbessoian
