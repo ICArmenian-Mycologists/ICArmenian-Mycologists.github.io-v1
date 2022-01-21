@@ -3,7 +3,7 @@ title: Claudia Bashian-Victoroff
 search:
   - C. Victoroff
   - C Victoroff
-role: Secretary
+role:  Secretary
 group: current
 image: images/members/Claudia_Victoroff.png
 website: 
