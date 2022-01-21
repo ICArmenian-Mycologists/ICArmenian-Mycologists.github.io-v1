@@ -3,7 +3,7 @@ title: Patricia Kaishian
 search:
   - P. Kaishian
   - P Kaishian
-role: President
+role: Faculty, President
 group: current
 image: images/members/patty_k.png
 website: 
