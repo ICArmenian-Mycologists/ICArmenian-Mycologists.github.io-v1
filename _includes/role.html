@@ -31,6 +31,26 @@
 {%- assign text = "Mascot" -%}
 {%- endif -%}
 
+{%- if include.type == "President" -%}
+{%- assign icon = "fas fa-microscope" -%}
+{%- assign text = "President" -%}
+{%- endif -%}
+
+{%- if include.type == "Vice-President" -%}
+{%- assign icon = "fas fa-microscope" -%}
+{%- assign text = "Vice-President" -%}
+{%- endif -%}
+
+{%- if include.type == "Secretary" -%}
+{%- assign icon = "fas fa-user-graduate" -%}
+{%- assign text = "Secretary" -%}
+{%- endif -%}
+
+{%- if include.type == "Treasurer" -%}
+{%- assign icon = "fas fa-user-graduate" -%}
+{%- assign text = "Treasurer" -%}
+{%- endif -%}
+
 {%- if include.text -%}
 {%- else -%}
 {%- assign tooltip = text -%}
