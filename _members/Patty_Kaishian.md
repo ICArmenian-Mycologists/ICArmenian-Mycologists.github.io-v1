@@ -3,7 +3,7 @@ title: Patricia Kaishian
 search:
   - P. Kaishian
   - P Kaishian
-role: postdoc
+role: President
 group: current
 image: images/members/patty_k.png
 website: 
