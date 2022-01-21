@@ -3,7 +3,7 @@ title: Arik Joukhajian
 search:
   - A. Joukhajian
   - A Joukhajian
-role: phd
+role: phd, treasurer
 group: current
 image: images/members/Arik_Joukhajian.jpeg
 website: 
