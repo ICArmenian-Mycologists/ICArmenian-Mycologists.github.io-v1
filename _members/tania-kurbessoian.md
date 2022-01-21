@@ -3,7 +3,7 @@ title: Tania Kurbessoian
 search:
   - T. Kurbessoian
   - T Kurbessoian
-role: Vice-President
+role:  Vice-President
 group: current
 image: images/members/Kurbessoian.png
 website: https://tania-k.github.io
