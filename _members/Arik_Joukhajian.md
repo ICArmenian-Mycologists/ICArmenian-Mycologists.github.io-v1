@@ -13,8 +13,4 @@ github:
 twitter: https://twitter.com/arikchu
 ---
 
-I am beginning my graduate studies at UC Riverside after completing a Bachelors in Microbiology at UCLA. 
-
-My broad interests in the life sciences led me to analyzing deep sea microbes, performing virus screening panels for transplant donors, and studying bacterial and fungal interactions around roots.
-
-A general appreciation of nature drew my attention to the often overlooked kingdom fungi, and I am working on studying the effects of fire on fungal community dynamics in desert environments in the Glassman lab at UC Riverside.
+Arik Joukhajian is a UCLA alumnus (Microbiology BSc) and a 2nd year PhD student at UC Riverside studying shifts in microbial communities disturbed by fire. This work includes sequencing DNA barcodes of bacteria, fungi, and archaea from soil samples as well as focused characterization of the arbuscular mycorrhizal fungi supporting plant life in the Mojave Desert. He is interested in the broad diversity of life in both micro and macro scales and is a proponent of sharing interesting organisms with the global scientific community on iNaturalist.org.
