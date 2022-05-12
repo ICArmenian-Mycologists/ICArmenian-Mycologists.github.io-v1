@@ -5,7 +5,7 @@ author: Tania Kurbessoian
 member-page: tania-kurbessoian
 ---
 
-#To Armenia.. In pursuit of knowledge, lichens, and mushrooms
+To Armenia.. In pursuit of knowledge, lichens, and mushrooms
 
 When you think of the country Armenia, what comes to mind? Maybe you know of a few famous Armenians, such as Cher, System of a Down, or the Kardashians. 
 President Biden recently became the first U.S. president to acknowledge the Armenian genocide, which occurred under the Ottoman Turk regime from 1915-1918 killing 1.5 million Armenians from their homeland (1,2,3). 
