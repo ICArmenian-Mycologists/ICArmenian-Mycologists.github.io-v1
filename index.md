@@ -33,7 +33,7 @@ title: International Congress of Armenian Mycologists
 We are also interested in teaching bioinformatics tools and pipelines to assemble, annotate and assess fungal genomes. <br>
 
 
-<center><a href="(https://ICArmenian-Mycologists.github.io/resources/">We are still updating our resources &nbsp;→</a></center>
+<center><a href="(https://ICArmenian-Mycologists.github.io/resources/">Stay tuned for our resource page &nbsp;→</a></center>
 {% endcapture %}
 {%
   include feature.html
