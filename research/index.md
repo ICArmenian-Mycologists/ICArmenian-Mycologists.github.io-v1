@@ -17,6 +17,7 @@ Mycorrhizal fungi grow on and within a host plant’s roots, extending into the 
 
 Project 3: Bioinformatics in Armenia
 As technology becomes more complex while also reducing in cost, biologists have been able to access deeper understanding of their systems. Armenia has been leading in the technology front but mycological experts are still behind on working on top notch science due to bioinformatics deficits. 
+
 Project 4: iNaturalist 
 
 
