@@ -27,6 +27,21 @@ defaults:
       description: International Congress for Armenian Mycologists are American Armenian mycologists who are interested in collaborating with the international scientific community. # description that will show under search engine results
       background: icons/ICAM-icon.jpg # background image in header and footer
       layout: default
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
   # markdown files in /_members
   - scope:
       type: "members"
@@ -38,6 +53,7 @@ defaults:
     values:
       layout: post
 
+# collections
 collections:
   members:
     output: true
@@ -49,7 +65,17 @@ sass:
 # syntax highlighting
 highlighter: rouge
 
-# build settings
+# plugins
 plugins:
-  - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  # - jekyll-avatar
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-relative-links
+    #- jemoji
+
+# jekyll theme
+theme: null
