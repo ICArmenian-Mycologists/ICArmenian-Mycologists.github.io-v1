@@ -12,6 +12,6 @@ Our group was invited by Nare at Glendale Community College (GCC) to present our
 {%
   include figure.html
   image="images/GCC.png"
-  caption="The founders of the International Congress of Armenian Mycologists presenting their work virtually to GCC Science Colloquium"
+  caption="The founders of the International Congress of Armenian Mycologists presenting their work virtually to GCC Science Colloquium."
   height="100%"
 %}
