@@ -2,7 +2,13 @@
 ---
 
 @import "variables";
+@import "palettes";
+@import "theme";
+@import "mixins";
 
 * {
   font-family: $serif;
+}
+* {
+  box-sizing: border-box;
 }
