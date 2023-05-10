@@ -99,13 +99,21 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.3)
+  jekyll (~> 3.9.3)
   jekyll-feed
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  jekyll-spaceship
-  webrick (~> 1.7)
+  jekyll-github-metadata
+  jekyll-coffeescript
+  jekyll-commonmark-ghpages
+  jekyll-gist
+  jekyll-paginate
+  jekyll-relative-links
+  jekyll-optional-front-matter
+  jekyll-readme-index
+  jekyll-default-layout
+  jekyll-titles-from-headings
 
 BUNDLED WITH
   2.4.7
